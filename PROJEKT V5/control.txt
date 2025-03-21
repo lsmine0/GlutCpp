@@ -1,0 +1,27 @@
+Operacje na siatce:
+„4”: przesuwa pozycję pierwszej siatki w scenie w lewo o 0,1 jednostki.
+„6”: przesuwa pozycję pierwszej siatki w scenie w prawo o 0,1 jednostki.
+„8”: Przesuwa pozycję pierwszej siatki w scenie do tyłu wzdłuż osi Z o 0,1 jednostki.
+„2”: przesuwa pozycję pierwszej siatki w scenie do przodu wzdłuż osi z o 0,1 jednostki.
+
+Obrót:
+„7”: Obraca pierwszą siatkę w scenie wokół osi x o 1 stopień.
+„9”: Obraca pierwszą siatkę w scenie wokół osi x o -1 stopień.
+„1”: Obraca pierwszą siatkę w scenie wokół osi Z o 1 stopień.
+„3”: Obraca pierwszą siatkę w scenie wokół osi Z o -1 stopień.
+
+Resetowanie:
+„5”: Ustawia pozycję pierwszej siatki w scenie na {0, 5, 0} i stosuje obrót o {90, 0, 0} stopni.
+
+Światła:
+„.”: Przełącza stan włączenia pierwszego światła w scenie.
+',': Przełącza stan włączenia drugiego światła w scenie.
+
+Kolor:
+„a”: Ustawia kolor rozproszenia pierwszego światła w scenie na czerwony.
+„s”: Ustawia kolor rozproszenia pierwszego światła w scenie na zielony.
+„d”: Ustawia kolor rozproszenia pierwszego światła w scenie na niebieski.
+„z”: Ustawia kolor rozproszenia drugiego światła w scenie na czerwony.
+„x”: Ustawia kolor rozproszenia drugiego światła w scenie na zielony.
+„c”: Ustawia kolor rozproszenia drugiego światła w scenie na niebieski.
+„r”: Ustawia rozproszony kolor obu świateł w scenie na biały.

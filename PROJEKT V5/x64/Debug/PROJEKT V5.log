@@ -1,0 +1,3 @@
+﻿  PROJEKT V5.cpp
+D:\Studia\Grafika\PROJEKT V5\PROJEKT V5\PROJEKT V5.cpp(370,1): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  PROJEKT V5.vcxproj -> D:\Studia\Grafika\PROJEKT V5\x64\Debug\PROJEKT V5.exe
